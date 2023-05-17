@@ -1,0 +1,8 @@
+.ListItems{
+    display: flex;
+    background-color: teal;
+    font-size: 34px;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}

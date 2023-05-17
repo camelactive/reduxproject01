@@ -1,0 +1,36 @@
+.CreateItem{
+    background-color: teal;
+    color: white;
+    font-size: 34px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.CreateItem__form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.CreateItem__form_label{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.readyBtn{
+    font-size: 26px;
+    background-color: green;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.redOption{
+    color: red;
+}
+.greenOption{
+    color: green;
+}
+.blueOption{
+    color: blue;
+}

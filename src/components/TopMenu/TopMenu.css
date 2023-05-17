@@ -1,0 +1,21 @@
+.TopMenu{
+    background-color: bisque;
+    text-align: center;
+    font-size: 30px;
+
+}
+.TopMenu__links{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 500px;
+}
+a{
+    text-decoration: none;
+    color: green;
+    font-weight: bolder;
+}
+.active{
+    color: orange;
+    text-shadow: red 3px 3px 1px;
+}
